@@ -3,9 +3,11 @@
 ---
 
 **Team Name**
+
 Tada Data
 
 **Team Members**
+
 Ibrahim Al-Akash, Daniel Cho, Camilo Soto Onate, Leticia Souto, Vivian Zheng
  
 [![Data display in action](https://img.youtube.com/vi/O-nl6mDYX-s/0.jpg)](https://www.youtube.com/watch?v=O-nl6mDYX-s)
